@@ -53,11 +53,4 @@ The project's file structure is organized as follows:
 
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Credits
-
-- Developed by Krushil Dhameliya
 
